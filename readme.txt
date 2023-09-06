@@ -1,1 +1,1 @@
-Hello C08
+Hello C08. Welcome to CodeGym ^^
